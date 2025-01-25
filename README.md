@@ -60,18 +60,18 @@ Individuals/Businesses: To earn rewards by sharing their bandwidth.
 Use Case: Peer-to-Peer Bandwidth Sharing
 Actors: Bandwidth Providers (Individuals/Businesses), Guerdon Node Software, Blockchain Ledger
 
-![Bandwidth Sharing Use Case](./architectural-design/bandwidth-sharing-use-case.png)
+![Bandwidth Sharing Use Case](./bandwidth-sharing-use-case.png)
 
 ## Content Delivery Network (CDN)
 
 Use Case: Decentralized Content Delivery
 Actors: Content Creators, Content Consumers, Guerdon Network
 
-![Content Delivery Network Use Case](./architectural-design/cdn-use-case.png)
+![Content Delivery Network Use Case](./cdn-use-case.png)
 
 ## Advertising Services
 
 Use Case: Transparent Ad Marketplace
 Actors: Advertisers, Publishers, Guerdon Ad Platform
 
-![Advertising Services Use Case](./architectural-design/advertising-services-use-case.png)
+![Advertising Services Use Case](./advertising-services-use-case.png)
