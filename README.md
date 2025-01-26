@@ -79,3 +79,5 @@ Actors: Advertisers, Publishers, Guerdon Ad Platform
 ## Guerdon Node Flow
 
 ![Guerdon Node Flow](./geurdon-node-flow.png)
+
+Geurdon Node should be implemented with Python which supports solana sdk.  Python is recommended because it can be compiled to a runtime file and the user can just run the executable in any OS: Windows, Mac, and Linux.  This will simplify the deployment process for the user.
