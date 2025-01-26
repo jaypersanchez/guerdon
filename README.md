@@ -78,4 +78,4 @@ Actors: Advertisers, Publishers, Guerdon Ad Platform
 
 ## Guerdon Node Flow
 
-![Guerdon Node Flow](./architectural-design/geurdon-node-flow.puml)
+![Guerdon Node Flow](./geurdon-node-flow.puml)
