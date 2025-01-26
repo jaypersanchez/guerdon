@@ -75,3 +75,7 @@ Use Case: Transparent Ad Marketplace
 Actors: Advertisers, Publishers, Guerdon Ad Platform
 
 ![Advertising Services Use Case](./advertising-services-use-case.png)
+
+## Guerdon Node Flow
+
+![Guerdon Node Flow](./architectural-design/geurdon-node-flow.puml)
